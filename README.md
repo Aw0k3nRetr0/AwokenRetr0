@@ -28,6 +28,4 @@ My goal is to bridge those worlds through hands-on projects that sharpen my tech
 Cybersecurity is both art and discipline — it’s about mastering attack and defense to strengthen the systems that matter most.  
 I believe in constant learning, creative problem-solving, and turning every challenge into a chance to grow.
 
----
-
 
