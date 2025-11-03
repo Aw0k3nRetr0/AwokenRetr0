@@ -17,9 +17,9 @@ My goal is to bridge those worlds through hands-on projects that sharpen my tech
 ---
 
 ### 🧰 Tools & Tech
-**Blue Team:** Wazuh • Velociraptor • Splunk • Sysmon  
+**Blue Team:** Wazuh • Splunk • Sysmon  
 **Red Team:** Kali • Burp Suite • Metasploit  
-**Hybrid:** MITRE ATT&CK   
+**Hybrid:** MITRE ATT&CK
 **Languages:** Python • Bash • PowerShell  
 
 ---
