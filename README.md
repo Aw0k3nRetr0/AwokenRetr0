@@ -9,7 +9,7 @@ My goal is to bridge those worlds through hands-on projects that sharpen my tech
 ---
 
 ### 🧠 Current Focus
-- Threat hunting and log analysis with Wazuh, Velociraptor, and Splunk  
+- Threat hunting and log analysis with Wazuh, and Splunk  
 - Python scripting and automation for security operations  
 - Detection engineering aligned with MITRE ATT&CK  
 - Red Team simulation and adversary emulation
